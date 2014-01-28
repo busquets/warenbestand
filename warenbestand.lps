@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="warenbestand.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="warenbestand"/>
+        <UsageCount Value="115"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="datenbank.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="datenbank"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="662"/>
+        <CursorPos X="16" Y="682"/>
+        <UsageCount Value="115"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="warenbestand.lps"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="25"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../../lazarus/components/lazreport/source/lr_class.pas"/>
+        <UnitName Value="LR_Class"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="8992"/>
+        <CursorPos X="1" Y="9002"/>
+        <UsageCount Value="25"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../lazarus/lcl/interfaces/gtk2/gtk2widgetset.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="5501"/>
+        <CursorPos X="1" Y="5511"/>
+        <UsageCount Value="16"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../lazarus/lcl/include/dbedit.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="55"/>
+        <CursorPos X="1" Y="64"/>
+        <UsageCount Value="14"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../../lazarus/components/lazreport/source/lr_pars.pas"/>
+        <UnitName Value="LR_Pars"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="248"/>
+        <CursorPos X="1" Y="257"/>
+        <UsageCount Value="14"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../../lazarus/lcl/include/control.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2696"/>
+        <CursorPos X="1" Y="2711"/>
+        <UsageCount Value="9"/>
+      </Unit7>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="627" Column="6" TopLine="623"/>
+      </Position1>
+      <Position2>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="594" Column="79" TopLine="585"/>
+      </Position2>
+      <Position3>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="629" Column="27" TopLine="623"/>
+      </Position3>
+      <Position4>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="631" Column="25" TopLine="614"/>
+      </Position4>
+      <Position5>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="642" Column="24" TopLine="623"/>
+      </Position5>
+      <Position6>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="639" Column="25" TopLine="623"/>
+      </Position6>
+      <Position7>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="673" Column="21" TopLine="658"/>
+      </Position7>
+      <Position8>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="672" Column="21" TopLine="650"/>
+      </Position8>
+      <Position9>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="673" Column="35" TopLine="657"/>
+      </Position9>
+      <Position10>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="504" Column="2" TopLine="136"/>
+      </Position10>
+      <Position11>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="134" Column="53" TopLine="112"/>
+      </Position11>
+      <Position12>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="669" Column="19" TopLine="652"/>
+      </Position12>
+      <Position13>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="519" Column="1" TopLine="496"/>
+      </Position13>
+      <Position14>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="629" Column="19" TopLine="618"/>
+      </Position14>
+      <Position15>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="515" Column="1" TopLine="500"/>
+      </Position15>
+      <Position16>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="676" Column="38" TopLine="104"/>
+      </Position16>
+      <Position17>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="510" Column="15" TopLine="500"/>
+      </Position17>
+      <Position18>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="676" Column="36" TopLine="658"/>
+      </Position18>
+      <Position19>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="504" Column="2" TopLine="503"/>
+      </Position19>
+      <Position20>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="676" Column="41" TopLine="666"/>
+      </Position20>
+      <Position21>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="678" Column="6" TopLine="706"/>
+      </Position21>
+      <Position22>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="151" Column="56" TopLine="707"/>
+      </Position22>
+      <Position23>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="679" Column="13" TopLine="417"/>
+      </Position23>
+      <Position24>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="153" Column="69" TopLine="147"/>
+      </Position24>
+      <Position25>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="684" Column="3" TopLine="620"/>
+      </Position25>
+      <Position26>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="504" Column="2" TopLine="706"/>
+      </Position26>
+      <Position27>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="686" Column="42" TopLine="664"/>
+      </Position27>
+      <Position28>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="684" Column="27" TopLine="664"/>
+      </Position28>
+      <Position29>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="682" Column="11" TopLine="666"/>
+      </Position29>
+      <Position30>
+        <Filename Value="datenbank.pas"/>
+        <Caret Line="681" Column="11" TopLine="665"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
